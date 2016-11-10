@@ -3,3 +3,4 @@ Changes in second line.
 Changes done from first clone
 hello changes done from second clone
 Changes doe from first clone again
+made changes from 1
