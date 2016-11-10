@@ -3,4 +3,8 @@ Changes in second line.
 Changes done from first clone
 hello changes done from second clone
 Changes doe from first clone again
+<<<<<<< HEAD
 made changes from 1
+=======
+made change from 2
+>>>>>>> 1592cf0cd01311af85cb17d3c1776d468c9a6322
