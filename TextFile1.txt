@@ -2,7 +2,11 @@ Hello World!
 Changes in second line.
 Changes done from first clone
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello changes done from second clone
+=======
+Changes doe from first clone again
+>>>>>>> c3451db3b414287d817c28e28440c5d7af775c7f
 =======
 Changes doe from first clone again
 >>>>>>> c3451db3b414287d817c28e28440c5d7af775c7f
