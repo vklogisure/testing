@@ -8,8 +8,5 @@ made changes from 1
 =======
 made change from 2
 >>>>>>> 1592cf0cd01311af85cb17d3c1776d468c9a6322
-<<<<<<< HEAD
-2
-=======
 1
->>>>>>> 8317b4fb5d5de990d0b99d310e44350a9ebbbc5f
+11
